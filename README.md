@@ -32,7 +32,7 @@ Task 1.1 Pairs:
 hadoop jar BigData.jar Task1_1_Pairs /user/input/ /user/output/task1_1_pairs
 
 Task 1.1 Stripes: 
-hadoop jar BigData.jar Task1_1_Stripes /user/input/ /user/s3764267/output/task1_1_stripes
+hadoop jar BigData.jar Task1_1_Stripes /user/input/ /user/output/task1_1_stripes
 
 Task 2.1 Pairs:
 hadoop jar BigData.jar Task1_2_Pairs /user/input/ /user/output/task1_2_pairs
